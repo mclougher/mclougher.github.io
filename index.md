@@ -12,6 +12,8 @@
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
+### Creating an Automated Coaching Assistant
+
 [Automated Coaching Assistant PDF](/pdf/Creating an Automated Coaching Assistant.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 

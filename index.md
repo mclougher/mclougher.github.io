@@ -12,7 +12,7 @@
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Automated Coaching Assistant](https://github.com/mclougher/Automated-Coaching-Assistant/blob/master/Creating%20an%20Automated%20Coaching%20Assistant.pdf)
+[Automated Coaching Assistant](Creating an Automated Coaching Assistant.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---

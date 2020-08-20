@@ -9,7 +9,7 @@
 ---
 
 ---
-### Creating an Automated Coaching Assistant 
+### Creating an Automated Coaching Assistant _JAN 2014 - DEC 2014_
 
 - [Paper](/pdf/Creating an Automated Coaching Assistant.pdf)
 - [PowerPoint Presentation](/pdf/Creating an Automated Coaching Assistant.pptx)

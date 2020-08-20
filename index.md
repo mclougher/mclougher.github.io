@@ -3,7 +3,8 @@
 ---
 
 ### Covid-19-Sweden-Analysis
-- [Project 1 Title](/pdf/Covid-19 Analysis.html)
+- [Jupyter Notebook Page](/pdf/Covid-19 Analysis.html)
+- [All Files](https://github.com/mclougher/Covid-19-Sweden-Analysis)
 
 ---
 

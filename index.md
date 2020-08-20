@@ -9,12 +9,12 @@
 ---
 
 ---
-### Creating an Automated Coaching Assistant
+### Creating an Automated Coaching Assistant 
 
 - [Paper](/pdf/Creating an Automated Coaching Assistant.pdf)
 - [PowerPoint Presentation](/pdf/Creating an Automated Coaching Assistant.pptx)
 - [All Files](https://github.com/mclougher/Automated-Coaching-Assistant)
-- <img src="images/Deadlift.png"/>
+<img src="images/Deadlift.png"/>
 
 ---
 

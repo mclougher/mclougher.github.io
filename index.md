@@ -3,23 +3,17 @@
 ---
 
 ### Covid-19-Sweden-Analysis
-
-[Project 1 Title](/pdf/Covid-19 Analysis.ipynb)
-<img src="images/covid quantiles.png?raw=true"/>
+- [Project 1 Title](/pdf/Covid-19 Analysis.ipynb)
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
 ### Creating an Automated Coaching Assistant
 
 - [Paper](/pdf/Creating an Automated Coaching Assistant.pdf)
-<br>
 - [PowerPoint Presentation](/pdf/Creating an Automated Coaching Assistant.pptx)
-<br>
 - [All Files](https://github.com/mclougher/Automated-Coaching-Assistant)
-<img src="images/Deadlift.png"/>
+- <img src="images/Deadlift.png"/>
 
 ---
 

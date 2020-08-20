@@ -12,7 +12,7 @@
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Automated Coaching Assistant PDF1](/pdf/Creating_an_Automated_Coaching_Assistant.pdf)
+[Automated Coaching Assistant PDF](/pdf/Creating an Automated Coaching Assistant.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---

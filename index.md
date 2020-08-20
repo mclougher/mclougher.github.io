@@ -4,8 +4,9 @@
 
 ### Estimating MPG
 ##### _August 2020_
-- [Jupyter Notebook Page](/pdf/Covid-19 Analysis.html)
-- [All Files](https://github.com/mclougher/Covid-19-Sweden-Analysis)
+- [Jupyter Notebook Page](/pdf/MPG Estimation.html)
+- [All Files](https://github.com/mclougher/mpg)
+<img src="images/mpg curves.png"/>
 
 ---
 

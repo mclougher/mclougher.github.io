@@ -1,11 +1,11 @@
 title: Michael Clougher # your name (or website title) here
 logo: "/images/headshot.jpeg" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  First description 
+  Passionate about solving problems using real data.
   <br><br>
-  Second description 
+  BA from Connecticut College with a triple major in Computer Science, Mathematics, (Statistics Concentration.  Nearing completion of MS from Johns Hopkins University in Computer Science with concentration in Data Science.
   <br><br>
-  <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
+  <a href="https://www.linkedin.com/in/michael-clougher-371688167/">View My LinkedIn Profile</a> 
   
 theme: jekyll-theme-minimal
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here

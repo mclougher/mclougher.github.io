@@ -11,9 +11,10 @@
 
 ### Ontology for Health Through Exercise and Nutrition (OHEN)
 ##### _August 2020_
-- [Jupyter Notebook Page](/pdf/Covid-19 Analysis.html)
-- [All Files](https://github.com/mclougher/Covid-19-Sweden-Analysis)
-
+- [Summary Paper](/pdf/Final Paper.pdf)
+- [Jupyter Notebook Page](/pdf/Building OHEN.html)
+- [All Files](https://github.com/mclougher/ohen)
+<img src="images/ohen image.png"/>
 ---
 
 ### Covid-19-Sweden-Analysis 

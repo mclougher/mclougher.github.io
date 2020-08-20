@@ -3,7 +3,7 @@
 ---
 
 ### Covid-19-Sweden-Analysis
-- [Project 1 Title](/pdf/Covid-19 Analysis.ipynb)
+- [Project 1 Title](/pdf/Covid-19 Analysis.html)
 
 ---
 

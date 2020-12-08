@@ -3,9 +3,9 @@
 
 ### Fuzzy Logic in
 ##### _December 2020_
-- [Research Paper]
-- [Jupyter Notebook](/pdf/MPG Estimation.html)
-- [All Files](https://github.com/mclougher/mpg)
+- [Research Paper](/pdf/605.745 - Clougher - Final Paper.pdf)
+- [Jupyter Notebook HTML](/pdf/Fuzzy Logic (3).html>)
+- [Jupyter Notebook Source](/pdf/Fuzzy Logic.ipynb)
 <img src="images/mpg curves.png"/>
 
 ---

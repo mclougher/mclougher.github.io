@@ -6,6 +6,7 @@
 Created a novel approach to classify tumors as malignant or benign using fuzzy logic.  Achieved higher sensitivity scores relative to a standard logistic regression model implemented with sklearn.
 - [Research Paper](/pdf/605.745 - Clougher - Final Paper.pdf)
 - [Jupyter Notebook HTML](/pdf/Fuzzy Logic (3).html)
+
 <img src="images/fuzzy mean radius membership.png"/>
 
 ---
@@ -15,6 +16,7 @@ Created a novel approach to classify tumors as malignant or benign using fuzzy l
 Linear regression model to estimate MPG.  Bootstrapping, learning and cross validation curves created to help determine efficacy.
 - [Jupyter Notebook Page](/pdf/MPG Estimation.html)
 - [All Files](https://github.com/mclougher/mpg)
+
 <img src="images/mpg curves.png"/>
 
 ---
@@ -25,6 +27,7 @@ Created the framework for an ontology for health between both exercise and nutri
 - [Summary Paper](/pdf/Final Paper.pdf)
 - [Jupyter Notebook Page](/pdf/Building OHEN.html)
 - [All Files](https://github.com/mclougher/ohen)
+
 <img src="images/ohen image.png"/>
 
 ---
@@ -42,6 +45,7 @@ Created an ‘Automated Coaching Assistant’ to assess a user’s performance o
 - [Paper](/pdf/Creating an Automated Coaching Assistant.pdf)
 - [PowerPoint Presentation](/pdf/Creating an Automated Coaching Assistant.pptx)
 - [All Files](https://github.com/mclougher/Automated-Coaching-Assistant)
+
 <img src="images/Deadlift.png"/>
 
 ---

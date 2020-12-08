@@ -1,4 +1,12 @@
 ## Portfolio
+---
+
+### Fuzzy Logic in
+##### _December 2020_
+- [Research Paper]
+- [Jupyter Notebook](/pdf/MPG Estimation.html)
+- [All Files](https://github.com/mclougher/mpg)
+<img src="images/mpg curves.png"/>
 
 ---
 

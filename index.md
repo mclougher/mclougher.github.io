@@ -3,8 +3,9 @@
 
 ### Fuzzy Logic in Tumor Classification
 ##### _December 2020_
+Test
 - [Research Paper](/pdf/605.745 - Clougher - Final Paper.pdf)
-- [Jupyter Notebook HTML](/pdf/Fuzzy Logic (3).html>)
+- [Jupyter Notebook HTML](/pdf/Fuzzy Logic (3).html)
 - [Jupyter Notebook Source](/pdf/Fuzzy Logic.ipynb)
 <img src="images/fuzzy mean radius membership.png"/>
 

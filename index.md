@@ -1,12 +1,12 @@
 ## Portfolio
 ---
 
-### Fuzzy Logic in
+### Fuzzy Logic in Tumor Classification
 ##### _December 2020_
 - [Research Paper](/pdf/605.745 - Clougher - Final Paper.pdf)
 - [Jupyter Notebook HTML](/pdf/Fuzzy Logic (3).html>)
 - [Jupyter Notebook Source](/pdf/Fuzzy Logic.ipynb)
-<img src="images/mpg curves.png"/>
+<img src="images/fuzzy mean radius membership.png.png"/>
 
 ---
 

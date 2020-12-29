@@ -9,6 +9,11 @@
 </script>
 
 ## Portfolio
+### Ranking Document Similarity and Determining Optimal Query Length in a Cover Density Approach
+##### _December 2020_
+- [Research Paper](/pdf/Cover_Density_Ranking.pdf)
+
+<img src="images/recall prec time.png"/>
 ---
 
 ### Fuzzy Logic in Tumor Classification
